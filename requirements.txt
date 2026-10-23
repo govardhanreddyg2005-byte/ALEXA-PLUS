@@ -1,0 +1,5 @@
+mcp==1.30.0
+ollama==0.6.3
+pyttsx3==2.99
+requests==2.34.2
+streamlit==1.66.0
